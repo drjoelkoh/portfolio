@@ -33,7 +33,7 @@ const Hero = () => {
       </div>
 
       <p className="max-w-2xl text-lg text-gray-300 mb-2">
-      Hi I am Joel, and I am a Computing Science student specializing Internet of Things at Singapore Institute of Technology with a joint degree at University of Glasgow. I am passionate about leveraging technology and effective project management to drive innovation, optimize system efficiency, and deliver impactful solutions in real-world applications. 
+      I am a Computing Science student specializing Internet of Things at Singapore Institute of Technology with a joint degree at University of Glasgow. I am passionate about leveraging technology and effective project management to drive innovation, optimize system efficiency, and deliver impactful solutions in real-world applications. 
       </p>
       <p className="max-w-2xl text-lg text-gray-300 mb-2"> 
       During the journey of my degree studies, I have greatly enhanced proficiency in the various programming languages, software engineering skills and developed the ability to effectively manage a team by organizing tasks and ensuring timely delivery of project milestones. With my diverse experience in software development, AI-driven solutions, and leadership, I am particularly interested in project management, where I can oversee the successful execution of technology-driven initiatives. I enjoy coordinating teams, organizing tasks, and ensuring timely delivery of project milestones.

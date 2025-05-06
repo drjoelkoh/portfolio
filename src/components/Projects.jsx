@@ -2,21 +2,35 @@ import React from 'react';
 
 const projects = [
   {
-    title: 'LLM Webscraper',
-    description: 'Web scraping tool using LLMs to extract data from websites.',
-    link: 'https://github.com/yourusername/llm-webscraper',
+    title: 'Web LMS',
+    description: 'A web-based Learning Management System designed to support secondary school institutes in Singapore.',
+    link: 'https://github.com/drjoelkoh/Web-Programming-LMS',
   },
   {
-    title: 'MRT Face Recognition Gantry',
-    description: 'Facial recognition system for MRT gantry entry.',
+    title: 'Live Translation System',
+    description: 'Collaborative project with Panasonic Industrial Devices Singapore Pte. Ltd. to transcript and translate speeches in an online meeting using pretrained AI models.',
     link: '',
   },
   {
-    title: 'Asset Sentiment Analysis',
-    description: 'Uses NLP and scraping to analyze asset sentiment.',
-    link: 'https://github.com/yourusername/asset-sentiment',
+    title: 'MRT Face Recognition Gantry ',
+    description: 'Facial recognition system for MRT gantry entry.',
+    link: 'https://github.com/drjoelkoh/Cloud-MRT-Face-Gantry-System',
   },
-  // Add more projects here
+  {
+    title: 'Online Bank System',
+    description: 'An Object Oriented Programming development of a bank system.',
+    link: 'https://github.com/drjoelkoh/Object-Oriented-Programming-Bank-System',
+  },
+  {
+    title: 'DSA Airport System',
+    description: 'Airport system that calculates shortest and cheapest routes using data structures and algorithms.',
+    link: 'https://github.com/drjoelkoh/DSA-Airport-System',
+  },
+  {
+    title: 'Diet Tracker',
+    description: 'Development of an Android app that tracks and analyses calories and uses a food recognition AI model to identify food and calories.',
+    link: 'https://github.com/drjoelkoh/DietTracker',
+  },
 ];
 
 const Projects = () => {
@@ -38,7 +52,7 @@ const Projects = () => {
                 View More
               </a>
             ) : (
-              <p className="text-red-500 font-semibold">Project unavailable</p>
+              <p className="text-red-500 font-semibold">Project is unavailable for viewing due to licensing</p>
             )}
           </div>
         ))}

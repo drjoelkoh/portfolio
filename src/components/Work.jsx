@@ -5,25 +5,25 @@ const workItems = [
     title: "Diploma in Multimedia & Infocomm Technology",
     place: "Nanyang Polytechnic",
     date: "April 2021 - April 2021",
-    description: "Pursuing core modules like machine learning, data viz, backend dev and more."
+    description: "Web Design & Development | Open-Source Web Solutions Development | Cyber security essentials | Mobile App Development | Distributed System Development with Java EE"
   },
   {
     title: "IT Associate Intern Consultant",
     place: "Anacle Systems Pte Ltd",
     date: "August 2020 - February 2021",
-    description: "Built data dashboards using Apache Superset and automated pipeline scripts."
+    description: "Participated in the end-to-end software implementation lifecycle, including application testing, client onboarding, and post-deployment support. Collaborated with on-site and off-shore teams to troubleshoot issues, integrate tenant data, and ensure system stability and continuity."
   },
   {
     title: "Bachelor with Honours in Computing Science",
     place: "Singapore Institute of Technology | University of Glasgow",
     date: "August 2023 - Present",
-    description: "Managed weekly tutoring for 10+ kids, and led event planning and volunteer coordination."
+    description: "Computer Organisation & Architecture | Database Systems | Data Structures & Algorithm | Cloud and Distributed Computing | Internet of Things: Protocols and Networks |  Data Analytics | Machine Learning"
   },
   {
     title: "Backend Developer for Live Translation System",
     place: "Singapore Institute of Technology",
     date: "September 2024 - March 2025",
-    description: "Managed weekly tutoring for 10+ kids, and led event planning and volunteer coordination."
+    description: "Developed backend services for a real-time live translation system using pretrained AI models from GitHub and Hugging Face. Enabled automated transcription and multilingual translation of online meeting speeches for improved accessibility and communication."
   }
 
 ];
